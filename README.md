@@ -1,2 +1,1 @@
-# DCOYVER-BA-LANGI-
-DCOYVER FULL
+# Dcoyver.com :D
