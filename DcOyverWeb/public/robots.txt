@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+# Sitemap (Dinamik - Tüm sunucuları içerir)
+Sitemap: https://dcoyver.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Disallow specific paths if needed
+# Disallow: /admin/
+# Disallow: /api/
+
+# Allow all important pages
+Allow: /
+Allow: /top100
+Allow: /kategori/*
+Allow: /sunucu/*
+Allow: /kullanicilar
+Allow: /kullanici/*
+
+# SEO Keywords: dc oyver, dcoyver, dc oy ver, oyver sistemi
